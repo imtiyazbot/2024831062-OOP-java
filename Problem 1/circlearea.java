@@ -1,5 +1,5 @@
 import java.util.*;
-public class cicrlearea {
+public class circlearea {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
